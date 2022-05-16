@@ -13,3 +13,9 @@ para rodar a aplicação de fato.
 --------------------------------------------------
 
 Para rodar o front-end, basta digitar npm-start.
+
+CASO HAJA ERRO DE CORS POLYCE, Instalar a seguinte extensão no navegador desejado:  CORS Unblock
+
+https://chrome.google.com/webstore/detail/cors-unblock/lfhmikememgdcahcdlaciloancbhjino
+
+https://addons.mozilla.org/pt-BR/firefox/addon/cors-unblock/
