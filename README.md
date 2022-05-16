@@ -2,9 +2,9 @@ Para rodar o back-end siga os seguintes passos
 
 1- digitar o seguinte comando no terminal, dentro da pasta "bk_cloud" para criar uma maquina virtualizada python;
 
-source /venv/bin/activate
+source venv/bin/activate
 
-e logo depois;
+e logo depois dentro da pasta "api";
 
 python manage.py runserver
 
